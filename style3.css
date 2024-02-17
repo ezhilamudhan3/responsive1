@@ -1,0 +1,39 @@
+.form{
+    font-size: 30px;
+    margin:17em;
+    margin-top:20px;
+    padding:6em;
+    align-items: center;
+    color: white;
+    background-image: url(image6.jpg);
+}
+#name{
+    width: 17em;
+    height: 2em;
+    box-shadow: 0 0 10px red,0 0 30px red,0 0 60px red,0 0 100px red;
+}
+#email{
+    width: 17em;
+    height: 2em;
+    box-shadow: 0 0 10px red,0 0 30px red,0 0 60px red,0 0 100px red;
+}
+#subject{
+    width: 17em;
+    height: 2em;
+    box-shadow: 0 0 10px red,0 0 30px red,0 0 60px red,0 0 100px red;
+}
+#message{
+    width: 17em;
+    height: 9em; 
+    box-shadow: 0 0 10px red,0 0 30px red,0 0 60px red,0 0 100px red;
+}
+#submit{
+    font-size: 40px;
+    background-color: #101720;
+    color: white;
+    margin-left:1.3em;
+    margin-top:20px;
+    border-radius:10px;
+    padding:20px;
+    box-shadow: 0 0 20px red,0 0 50px red,0 0 90px red;
+}
